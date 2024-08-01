@@ -1,0 +1,11 @@
+6e75c9b47a31aac0f8ad3cd5eee4d029 *DESCRIPTION
+32f8b22c241ddbd743cc0997867d2a2d *NAMESPACE
+7946044f50e71b645bf8177e209bcb5d *R/helper.R
+ffba139882cd806c66758a1bc59bc251 *R/main.R
+d2b9158af2751b6e0fabb635d357ec4a *README.md
+5be6cb0d2ec3ef27b4d959d969929a75 *inst/example.R
+f4ab80a7b8180b7efa4c4f994d616ecd *inst/logos/LEAPGP.png
+395fe7d0307c0f6fd70e3f4ae733c85b *man/leapGP.Rd
+2906231473073235f3fb0dbbf577ea11 *man/predict_leapGP.Rd
+713da8307539ae5a2a4de4cb38bf2d9f *tests/testthat.R
+ff799b65f41eec3ce18e17b5c438c8a0 *tests/testthat/test1.R
